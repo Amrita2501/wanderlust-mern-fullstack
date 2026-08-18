@@ -221,26 +221,23 @@ Feel free to **Fork** this repo and submit a **Pull Request**.
 
 ---
 
-## 🔗 Connect With Me <br>
+### 🔗 Connect With Me <br>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/amrita-kumari-b97496375" target="_blank">
-    <img src="https://www.linkedin.com/in/amrita-kumari-b97496375/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bzc00ER0pT2K%2BSUOGQz6j%2BQ%3D%3D"/>
-  </a>
-  
-  <a href="https://github.com/Amrita2501" target="_blank">
-    
+  <a href="https://www.linkedin.com/in/amrita-kumari-b97496375/" target="_blank">
+    <img src="https://www.linkedin.com/favicon.ico" width="35" height="35" alt="LinkedIn"/>
   </a>
 
-  <a href="b23245@students.iitmandi.ac.in">
-   
-  </a>
+<a href="https://github.com/Amrita2501" target="_blank">GitHub</a> • <a href="mailto:b23245@students.iitmandi.ac.in">Email</a>
+
 </p>
 
 ---
 
 <h3 align="center" style="font-size: 24px;">
-  <em>Made with ❤️ by <strong> Amrita Kumari</strong><br><br>
+  <em>Made with 💗 by <strong>Amrita Kumari</strong></em>
 </h3>
+
 
 
 
